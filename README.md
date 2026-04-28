@@ -1,14 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dahea Lee
 ==================================================================================================================================
 
-Unity Client Developer
-----------------------
+## Unity Client Developer | Performance & Interaction Architect
+> **"Solving problems through robust architecture and data-driven optimization."**
 
-???몰라
+* 🚀 Specialized in **Performance Optimization** (achieved 4,500x frame stability & Zero GC)
+* 🛠️ Expert in designing **Data-to-UI Sync Pipelines** and **Interaction Frameworks**
+* 📱 Experienced in **AR Foundation** & **Location-based Interactive Systems**
+* 🧪 Proven track record of **Live Issue Tracking** and Cross-platform Patching
 
-* 🌍  I'm based in Seoul, South Korea
-* ✉️  You can contact me at [lisa7041@gmail.com](mailto:lisa7041@gmail.com)
-* 💬  Ask me about Live fast Die Young
+---
+
+* 🌍 I'm based in **Seoul, South Korea**
+* ✉️ Contact me: [lisa7041@gmail.com](mailto:lisa7041@gmail.com)
+* 💬 Ask me about *HOW TO LIVE FAST AND DIE YOUNG (and Clean Code)**
 
 ### Skills
 <p align="left">
